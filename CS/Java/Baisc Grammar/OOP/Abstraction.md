@@ -103,7 +103,7 @@ public class Main {
 
 
 
-## 🧠 Summary
+## Summary
 
 | Concept           | Code                                |
 | ----------------- | ----------------------------------- |
